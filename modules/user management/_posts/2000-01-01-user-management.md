@@ -4,9 +4,9 @@ title: User/Password Management
 ## User Management
 
 There are 3 ways to do this:
-1) Control Panel
-2) Computer Management
-3) Windows command line
+1. Control Panel
+2. Computer Management
+3. Windows command line
 
 ### General Guide for Recognizing "Good/Bad" Users
 If you have a list of users (CyberPatriot):
